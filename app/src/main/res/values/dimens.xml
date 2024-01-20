@@ -5,4 +5,5 @@
     <dimen name="bt_small_pad">15sp</dimen>
     <dimen name="bt_hei">48sp</dimen>
     <dimen name="bt_margin">10sp</dimen>
+
 </resources>
